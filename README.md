@@ -1,7 +1,6 @@
 
 
 
-
                                     This is SplashScreen
 ![Screenshot_3](https://github.com/SubhanSC/Timer/assets/124590824/1c7c749c-15c8-44ea-b1d0-cd782ff57e95)
 
@@ -9,12 +8,11 @@
 
 
                                     This is MainScreen
-![Screenshot_1](https://github.com/SubhanSC/Timer/assets/124590824/275e9804-bb1e-46cf-becd-c40f6b95d8cb)
+
+![MainScreen](https://github.com/SubhanSC/Timer/assets/124590824/f1264b66-f616-42b8-9815-aadeb62dbefb)
 
 
 
 
-
-
-
-![Screenshot_2](https://github.com/SubhanSC/Timer/assets/124590824/e66e54c9-6c46-4781-b589-8acf69807bd7)
+                                    This is Example
+![Example](https://github.com/SubhanSC/Timer/assets/124590824/7db64481-e761-429a-be20-843b79aa0232)
